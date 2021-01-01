@@ -1,2 +1,2 @@
-# abcitpark-assignment1
+# assignment1
 Image
